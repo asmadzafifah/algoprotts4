@@ -8,7 +8,7 @@ Original file is located at
 """
 
 def input_produk_agro():
-    print("================ UTAMA: FORM INPUT AGRO (VERSI A) ================")
+    print("================ UTAMA: FORM INPUT AGRO (VERSI AB) ================")
 
     nama_produk = input("Nama Produk (cth: Minyak Kelapa Sawit, Kopi Arabika): ")
     kategori = input("Kategori (cth: Perkebunan, Peternakan, Pangan Olahan): ")
